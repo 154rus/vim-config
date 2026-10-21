@@ -1,4 +1,4 @@
-"   -- Vim conf     --
+"  -- Tokyonight conf  --
 set termguicolors
 let g:tokyonight_style = 'night' "avail: night,storm
 let g:tokyonight_enable_italic = 1
